@@ -1,0 +1,11 @@
+.play-icon{
+    width: 8rem;
+    cursor: pointer;
+}
+.main-div{
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    max-width: 85%;
+    margin: auto;
+}

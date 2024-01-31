@@ -1,0 +1,9 @@
+.line{
+    height: 0.3px;
+    width: 90%;
+    background: black;
+}
+.meaning-section{
+    max-width: 85%;
+    margin: auto;
+}
